@@ -10,8 +10,8 @@
 	</div>
 	<!-- <Header /> -->
 
-	<div class="flex flex-row min-h-screen w-full bg-white dark:bg-gray-900 text-gray-900 dark:text-white z-30">
-		<div class="w-64 h-screen bg-gray-800 text-white flex flex-col space-y-4">
+	<div class="flex flex-row min-h-screen w-full bg-gray-900 text-gray-900 dark:text-white z-30">
+		<div class="w-64 h-screen text-white flex flex-col space-y-4">
 			<div class="flex items-center space-x-2 p-4">
 				<img src="http://192.168.31.220:9000/assets/safari-pinned-tab-1264f127.svg" class="h-8 w-8 invert" />
 				<span class="text-2xl font-semibold">FRIGATE</span>
